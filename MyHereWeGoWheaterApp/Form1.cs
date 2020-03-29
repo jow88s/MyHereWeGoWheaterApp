@@ -18,7 +18,7 @@ namespace MyHereWeGoWheaterApp
         private HttpClient _httpClient = new HttpClient(); // this is a comment made in the branche-feature1
 
         private bool btest = false; // this is for testing how to merge correct between branches // in de feature1-branche the btest is set to false
-        private int i = 999;
+        private int i_feature_branche_1 = 999;
 
         public Form1()
         {
