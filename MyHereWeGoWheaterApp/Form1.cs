@@ -17,6 +17,8 @@ namespace MyHereWeGoWheaterApp
         private Size _flpSize = new Size(800, 600);
         private HttpClient _httpClient = new HttpClient(); // this is a comment made in the branche-feature1
 
+        private bool btest = false; // this is for testing how to merge correct between branches // in de feature1-branche the btest is set to false
+        private int i = 999;
 
         public Form1()
         {
