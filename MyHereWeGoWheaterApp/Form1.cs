@@ -20,6 +20,8 @@ namespace MyHereWeGoWheaterApp
         private bool btest = true; // this is for testing how to merge correct between branches
         private int i = 1;
 
+        
+        private int i_feature_branche_1 = 999;
 
         public Form1()
         {
